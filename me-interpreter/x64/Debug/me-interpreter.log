@@ -1,0 +1,51 @@
+﻿  vmachine.c
+  meinterpreter.c
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(44): warning C4090: “函数”: 不同的“const”限定符
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(76): warning C4013: “evalv2”未定义；假设外部返回 int
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(102): warning C4311: “类型转换”: 从“int *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(102): warning C4312: “类型转换”: 从“const int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(128): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(129): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(130): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(131): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(133): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(134): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(135): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(136): warning C4311: “类型转换”: 从“int *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(136): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(137): warning C4311: “类型转换”: 从“int *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(139): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(140): warning C4311: “类型转换”: 从“int *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(161): warning C4013: “open”未定义；假设外部返回 int
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(161): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(162): warning C4013: “close”未定义；假设外部返回 int
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(163): warning C4013: “read”未定义；假设外部返回 int
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(163): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(164): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(165): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(166): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(166): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(167): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(198): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(199): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(200): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(201): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(203): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(204): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(205): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(206): warning C4311: “类型转换”: 从“int *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(206): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(208): warning C4311: “类型转换”: 从“int *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(210): warning C4312: “类型转换”: 从“int”转换到更大的“int *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(211): warning C4311: “类型转换”: 从“int *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(231): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(233): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(234): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(235): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(236): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(236): warning C4311: “类型转换”: 从“void *”到“int”的指针截断
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(237): warning C4312: “类型转换”: 从“int”转换到更大的“char *”
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(247): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(246): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  正在生成代码...

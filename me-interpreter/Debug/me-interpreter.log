@@ -1,0 +1,8 @@
+﻿  meinterpreter.c
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(44): warning C4090: “函数”: 不同的“const”限定符
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(76): warning C4013: “evalv2”未定义；假设外部返回 int
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(161): warning C4013: “open”未定义；假设外部返回 int
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(162): warning C4013: “close”未定义；假设外部返回 int
+c:\users\farell\documents\visual studio 2015\projects\me-interpreter\me-interpreter\meinterpreter.c(163): warning C4013: “read”未定义；假设外部返回 int
+  me-interpreter.vcxproj -> C:\Users\Farell\Documents\Visual Studio 2015\Projects\me-interpreter\Debug\me-interpreter.exe
+  me-interpreter.vcxproj -> C:\Users\Farell\Documents\Visual Studio 2015\Projects\me-interpreter\Debug\me-interpreter.pdb (Full PDB)
